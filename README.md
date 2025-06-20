@@ -60,7 +60,6 @@ Career Summary:
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashee0012&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashee0012&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashee0012&show_icons=true&theme=tokyonight" height="180px" width="300px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashee0012&theme=tokyonight" height="180px" width="300px"/>
 </p>
-
