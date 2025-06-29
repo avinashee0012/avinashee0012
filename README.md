@@ -49,11 +49,7 @@ Career Summary:
 
 ### Highlight Projects
 
-- **QMoney** – Visual stock portfolio analyzer (Ongoing) [View Project](https://www.crio.do/learn/portfolio/avinashee0012/ME_QMONEY_V2) <br>
-  `Unit testing | HTTP | Java | REST | Jackson | Design Patterns | Gradle | Code Refactoring | Exception Handling | Multithreading`  
-
-- **TravelBlog** – A travel content management system (CMS) (Ongoing) [View Project](https://github.com/avinashee0012/travelblogplatform) <br>
-  `Java | Spring Boot | MySQL | Git | REST | Jackson | Maven | Unit testing | Exception Handling`  
+- **SkillSync** – Job & Skill Match Platform<br> (View Project)[https://github.com/avinashee0012/skillsync]
 
 ---
 
