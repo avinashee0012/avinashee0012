@@ -49,7 +49,7 @@ Career Summary:
 
 ### Highlight Projects
 
-- **SkillSync** – Job & Skill Match Platform<br> (View Project)[https://github.com/avinashee0012/skillsync]
+- [**SkillSync**](https://github.com/avinashee0012/skillsync) – Job & Skill Match Platform<br>
 
 ---
 
