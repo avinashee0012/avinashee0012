@@ -1,61 +1,90 @@
-<h1 align="center">Hi, I'm Avinash Pathak</h1>
-<h3 align="center">Java Backend Developer | Ex-Amazon (6.5 Yrs Non-Tech) | Career Switcher | Building Real-World Projects</h3>
-
----
-<h3 align="center">
-  <a href="mailto:avinashee0012@gmail.com" target="_blank">
-    &nbsp;&nbsp;Email&nbsp;&nbsp;
-  </a>
-  <a href="https://linkedin.com/in/avinashee0012" target="_blank">
-    &nbsp;&nbsp;LinkedIn&nbsp;&nbsp;
-  </a>
-  <a href="https://www.crio.do/learn/portfolio/avinashee0012" target="_blank">
-    &nbsp;&nbsp;Portfolio&nbsp;&nbsp;
-  </a>
-  <a href="https://www.leetcode.com/avinashee0012" target="_blank">
-    &nbsp;&nbsp;LeetCode&nbsp;&nbsp;
-  </a>
-</h3>
+<h1>Hi, I'm Avinash Pathak 👋</h1>
+<h3>Java Backend Developer | Spring Boot | REST APIs | Crio.Do Trained | Ex-Amazon (6+ yrs)</h3>
 
 ---
 
-I’m currently working on:
-- Building backend applications using **Java, Spring Boot, REST APIs, MySQL**
-- Practicing **Data Structures & Algorithms** on LeetCode
-- Real-world development projects via **Crio.Do**
+## 👨‍💻 About Me
 
-I’m currently learning:
-- Advanced Spring Boot features
-- Security (JWT, OAuth2)
-
-Career Summary:
-- 6.5 years of non-tech experience at **Amazon** (Customer Service to Team Supervisor)
-- Now transitioning into tech with strong focus on **Java Backend Development**
-- Committed to clean code, scalable systems, and lifelong learning
+𝗗𝗿𝗶𝘃𝗲𝗻 𝗯𝘆 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗜 𝘁𝗿𝗮𝗶𝗻𝗲𝗱 𝗮𝘁 [𝗖𝗿𝗶𝗼.𝗗𝗼](https://www.crio.do/learn/portfolio/avinashee0012) 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝘁 𝗮 𝘀𝘁𝗿𝗼𝗻𝗴 𝗳𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗝𝗮𝘃𝗮 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝘁𝗿𝗮𝗻𝘀𝗶𝘁𝗶𝗼𝗻𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗮 𝗝𝗮𝘃𝗮 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝗳𝘁𝗲𝗿 𝟲.𝟱 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝘁 𝗔𝗺𝗮𝘇𝗼𝗻.
 
 ---
 
-### Tech Stack
+## 🚀 What I’m Currently Working On
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- Designing and developing **Spring Boot REST APIs**
+- Implementing **CRUD, validation, exception handling, and layered architecture**
+- Practicing **Data Structures & Algorithms** for interviews
+- Strengthening backend fundamentals via **Crio.Do real-world projects**
 
 ---
 
-### Highlight Projects
+## 📘 Professional Training (Crio.Do)
 
-- [**SkillSync**](https://github.com/avinashee0012/skillsync) – Job & Skill Match Platform<br>
+**Java Backend Developer Program – Crio.Do**
+- Core Java, OOPs, Collections, Exception Handling
+- Spring Boot fundamentals & advanced concepts
+- REST API design & best practices
+- Maven, Git, Postman, MySQL
+- Hands-on backend projects with production-style code structure
+
+> Crio.Do learning is project-driven and closely simulates real engineering workflows.
 
 ---
 
-### GitHub Stats
+## 🧠 Career Background
+
+- **Amazon (6+ Years)**  
+  Roles: Customer Service Associate → Resolution Specialist  
+- Developed strong skills in:
+  - Problem solving under pressure
+  - Ownership and accountability
+  - Working with large-scale processes and SLAs
+
+These skills now translate directly into **debugging, production mindset, and reliability as a backend developer**.
+
+---
+
+## 🛠️ Tech Stack (Backend-Focused)
+
+**Languages & Core**
+- Java (Core Java, OOPs)
+- SQL
+
+**Backend & Frameworks**
+- Spring Boot
+- REST APIs
+- Hibernate / JPA (basics)
+
+**Databases**
+- MySQL
+
+**Tools & Practices**
+- Maven
+- Git & GitHub
+- Postman
+- IntelliJ IDEA
+- Exception Handling & Logging
+- Basic Unit Testing
+
+---
+
+## 📌 Featured Project
+
+### 🔹 [Geekdemy – Online Learning Platform (Backend | Command-Line Application)](https://github.com/avinashee0012/geektrust-geekdemy)
+
+* Developed a **Spring Boot–based backend** as a **command-line application** for an online learning platform
+* Implemented **Command Design Pattern** to process user actions from an **input file**
+* Applied **Object-Oriented Programming principles** for clean, modular, and extensible code
+* Designed a **layered architecture** separating command handling, business logic, and data processing
+* Used **Maven** for dependency management and build automation
+* Wrote **unit tests using JUnit** to validate core business logic and command execution
+
+> Built to demonstrate backend system design, command processing, and clean architecture using Java and Spring Boot.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashee0012&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashee0012&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashee0012&show_icons=true&theme=tokyonight" height="170px"/>
 </p>
