@@ -93,5 +93,5 @@
 
 ## 📫 Let’s Connect
 - 📧 Email: avinashee0012@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/avinashee0012 
+- 💼 LinkedIn: https://linkedin.com/in/avinashee0012 
 - 💻 GitHub: You're already here 🙂
