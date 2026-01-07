@@ -1,5 +1,5 @@
 <h1>Hi, I'm Avinash Pathak 👋</h1>
-<h3>Java Backend Developer | Spring Boot | REST APIs | Crio.Do Trained | Ex-Amazon (6+ yrs)</h3>
+<h3>Java Backend Developer | Spring Boot | REST APIs | Crio.Do Trained</h3>
 
 ---
 
@@ -31,19 +31,6 @@
 
 ---
 
-## 🧠 Career Background
-
-- **Amazon (6+ Years)**  
-  Roles: Customer Service Associate → Resolution Specialist  
-- Developed strong skills in:
-  - Problem solving under pressure
-  - Ownership and accountability
-  - Working with large-scale processes and SLAs
-
-These skills now translate directly into **debugging, production mindset, and reliability as a backend developer**.
-
----
-
 ## 🛠️ Tech Stack (Backend-Focused)
 
 **Languages & Core**
@@ -53,38 +40,58 @@ These skills now translate directly into **debugging, production mindset, and re
 **Backend & Frameworks**
 - Spring Boot
 - REST APIs
-- Hibernate / JPA (basics)
+- Hibernate / JPA
 
 **Databases**
 - MySQL
+- MongoDB
 
 **Tools & Practices**
 - Maven
 - Git & GitHub
 - Postman
-- IntelliJ IDEA
+- IntelliJ IDEA and VS Code
 - Exception Handling & Logging
-- Basic Unit Testing
+- JUnit and Mockito
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Backend Projects
 
-### 🔹 [Geekdemy – Online Learning Platform (Backend | Command-Line Application)](https://github.com/avinashee0012/geektrust-geekdemy)
+### 🎬 Crio Video Rental Advance — Online Video Rental Backend
+**Tech Stack:** Java 17, Spring Boot, Spring Security, JWT, MySQL, Maven, Lombok  
 
-* Developed a **Spring Boot–based backend** as a **command-line application** for an online learning platform
-* Implemented **Command Design Pattern** to process user actions from an **input file**
-* Applied **Object-Oriented Programming principles** for clean, modular, and extensible code
-* Designed a **layered architecture** separating command handling, business logic, and data processing
-* Used **Maven** for dependency management and build automation
-* Wrote **unit tests using JUnit** to validate core business logic and command execution
-
-> Built to demonstrate backend system design, command processing, and clean architecture using Java and Spring Boot.
+- Built a **Spring Boot REST API** simulating an online video rental platform  
+- Implemented **JWT-based stateless authentication** with role-based access (ADMIN, CUSTOMER)  
+- Designed secure **user registration and login** flows  
+- Developed admin-only APIs for video catalog management  
+- Implemented rental business rules (max 2 active rentals per user)  
+- Integrated MySQL using clean entity-repository design  
+- Added centralized exception handling with proper HTTP status codes  
 
 ---
 
-## 📊 GitHub Stats
+### 😄 XMeme — Meme Sharing Backend Application
+**Tech Stack:** Spring Boot, MongoDB, Swagger, Docker  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashee0012&show_icons=true&theme=tokyonight" height="170px"/>
-</p>
+- Built REST APIs for meme creation and retrieval  
+- Used MongoDB for document-based persistence  
+- Documented APIs using Swagger  
+- Containerized the application using Docker  
+
+---
+
+### 🎓 Geekdemy — Online Learning Platform (Backend)
+**Tech Stack:** Java, Spring Boot, JUnit  
+
+- Developed backend as part of a Geektrust challenge  
+- Applied **layered architecture** and separation of concerns  
+- Used command-based design pattern  
+- Ensured build quality with JUnit-backed test coverage  
+
+---
+
+## 📫 Let’s Connect
+- 📧 Email: avinashee0012@gmail.com  
+- 💼 LinkedIn: (add link)  
+- 💻 GitHub: You're already here 🙂
