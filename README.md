@@ -1,97 +1,121 @@
-<h1>Hi, I'm Avinash Pathak 👋</h1>
-<h3>Java Backend Developer | Spring Boot | REST APIs | Crio.Do Trained</h3>
+<h1 align="center">Avinash Pathak</h1>
+
+<p align="center">
+  <strong>Java Backend Developer</strong><br/>
+  Building secure, reliable backend systems with Spring Boot
+</p>
+
+<p align="center">
+  <a href="https://github.com/avinashee0012">
+    <img src="https://img.shields.io/badge/GitHub-avinashee0012-black?style=flat-square&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/avinashee0012/">
+    <img src="https://img.shields.io/badge/LinkedIn-Avinash_Pathak-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:avinashee0012@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-𝗗𝗿𝗶𝘃𝗲𝗻 𝗯𝘆 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆 𝗳𝗼𝗿 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴, 𝗜 𝘁𝗿𝗮𝗶𝗻𝗲𝗱 𝗮𝘁 [𝗖𝗿𝗶𝗼.𝗗𝗼](https://www.crio.do/learn/portfolio/avinashee0012) 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝘁 𝗮 𝘀𝘁𝗿𝗼𝗻𝗴 𝗳𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗝𝗮𝘃𝗮 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝘁𝗿𝗮𝗻𝘀𝗶𝘁𝗶𝗼𝗻𝗶𝗻𝗴 𝗶𝗻𝘁𝗼 𝗮 𝗝𝗮𝘃𝗮 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗮𝗳𝘁𝗲𝗿 𝟲.𝟱 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗻𝗼𝗻-𝘁𝗲𝗰𝗵 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝘁 𝗔𝗺𝗮𝘇𝗼𝗻.
+I’m a Java Backend Developer who enjoys turning **business requirements into clean, secure APIs**.
 
----
+Before backend development, I spent **6+ years at Amazon** working on SLA-critical issues and root-cause analysis.  
+That experience shaped how I build software today: **predictable, defensive, and production-ready**.
 
-## 🚀 What I’m Currently Working On
-
-- Designing and developing **Spring Boot REST APIs**
-- Implementing **CRUD, validation, exception handling, and layered architecture**
-- Practicing **Data Structures & Algorithms** for interviews
-- Strengthening backend fundamentals via **Crio.Do real-world projects**
-
----
-
-## 📘 Professional Training (Crio.Do)
-
-**Java Backend Developer Program – Crio.Do**
-- Core Java, OOPs, Collections, Exception Handling
-- Spring Boot fundamentals & advanced concepts
-- REST API design & best practices
-- Maven, Git, Postman, MySQL
-- Hands-on backend projects with production-style code structure
-
-> Crio.Do learning is project-driven and closely simulates real engineering workflows.
+I focus on:
+- clear API contracts  
+- security by default  
+- readable code over clever code  
 
 ---
 
-## 🛠️ Tech Stack (Backend-Focused)
+## 🧰 Backend Toolkit
 
-**Languages & Core**
-- Java (Core Java, OOPs)
-- SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-informational?style=flat-square&logo=openjdk">
+  <img src="https://img.shields.io/badge/Spring_Boot-Framework-brightgreen?style=flat-square&logo=springboot">
+  <img src="https://img.shields.io/badge/Spring_Security-JWT-success?style=flat-square&logo=springsecurity">
+  <img src="https://img.shields.io/badge/REST_APIs-Design-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=flat-square">
+</p>
 
-**Backend & Frameworks**
-- Spring Boot
-- REST APIs
-- Hibernate / JPA
-
-**Databases**
-- MySQL
-- MongoDB
-
-**Tools & Practices**
-- Maven
-- Git & GitHub
-- Postman
-- IntelliJ IDEA and VS Code
-- Exception Handling & Logging
-- JUnit and Mockito
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=flat-square&logo=mysql">
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-darkgreen?style=flat-square&logo=mongodb">
+  <img src="https://img.shields.io/badge/Maven-Build-red?style=flat-square&logo=apachemaven">
+  <img src="https://img.shields.io/badge/JUnit-Testing-green?style=flat-square">
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=flat-square&logo=docker">
+</p>
 
 ---
 
-## 🚀 Featured Backend Projects
+## 🚀 Projects I’m Proud Of
 
-### 🎬 Crio Video Rental Advance — Online Video Rental Backend
-**Tech Stack:** Java 17, Spring Boot, Spring Security, JWT, MySQL, Maven, Lombok  
+### 🎬 Crio Video Rental Advance
+A backend that behaves like a **real rental system**, not a demo.
 
-- Built a **Spring Boot REST API** simulating an online video rental platform  
-- Implemented **JWT-based stateless authentication** with role-based access (ADMIN, CUSTOMER)  
-- Designed secure **user registration and login** flows  
-- Developed admin-only APIs for video catalog management  
-- Implemented rental business rules (max 2 active rentals per user)  
-- Integrated MySQL using clean entity-repository design  
-- Added centralized exception handling with proper HTTP status codes  
+- JWT-based login and role-based access (ADMIN / CUSTOMER)
+- Business rules baked into the API (e.g. rental limits)
+- Centralized error handling with clear HTTP responses
 
----
+**Why it matters:**  
+Shows how I think about **security, authorization, and business logic** in backend systems.
 
-### 😄 XMeme — Meme Sharing Backend Application
-**Tech Stack:** Spring Boot, MongoDB, Swagger, Docker  
-
-- Built REST APIs for meme creation and retrieval  
-- Used MongoDB for document-based persistence  
-- Documented APIs using Swagger  
-- Containerized the application using Docker  
+**Tech:** Java 17 · Spring Boot · Spring Security · JWT · MySQL · JPA
 
 ---
 
-### 🎓 Geekdemy — Online Learning Platform (Backend)
-**Tech Stack:** Java, Spring Boot, JUnit  
+### 🖼 XMeme
+A small backend with **big focus on usability**.
 
-- Developed backend as part of a Geektrust challenge  
-- Applied **layered architecture** and separation of concerns  
-- Used command-based design pattern  
-- Ensured build quality with JUnit-backed test coverage  
+- Simple REST APIs for creating and fetching memes
+- MongoDB for flexible data storage
+- Swagger for easy API exploration
+- Dockerized for smooth deployment
+
+**Why it matters:**  
+Demonstrates API clarity, documentation, and container basics.
+
+**Tech:** Java · Spring Boot · MongoDB · Swagger · Docker
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: avinashee0012@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/avinashee0012 
-- 💻 GitHub: You're already here 🙂
+### 🎓 Geekdemy
+Backend challenge solved with **structure and discipline**.
+
+- Clean layered architecture
+- Command-based design
+- Unit-tested core logic
+
+**Why it matters:**  
+Highlights clean code, testability, and maintainable design.
+
+**Tech:** Java · Spring Boot · JUnit
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashee0012&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashee0012&layout=compact&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🎯 Currently Working On
+
+- Designing better authorization boundaries in Spring Security
+- Improving test coverage and error handling
+- Backend system design fundamentals
+- Writing code that’s easy to maintain and debug
+
+---
+
+<p align="center">
+  <em>Simple APIs. Secure defaults. Production mindset.</em>
+</p>
