@@ -98,15 +98,6 @@ Highlights clean code, testability, and maintainable design.
 
 ---
 
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashee0012&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashee0012&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🎯 Currently Working On
 
 - Designing better authorization boundaries in Spring Security
