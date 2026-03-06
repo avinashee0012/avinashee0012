@@ -59,7 +59,7 @@ Previously spent **6+ years at Amazon** handling SLA-critical escalations and st
 
 ## Projects
 
-### 🔹 [HireFlow](https://github.com/avinashee0012/hireflow) – Multi-Tenant Recruitment Backend *(Active Development)*
+### 🔹 [HireFlow](https://github.com/avinashee0012/hireflow) – Multi-Tenant Recruitment Backend *(1st stable release made | Active Development)*
 
 A production-style recruitment platform backend supporting organisation-level governance and role-based workflows.
 
