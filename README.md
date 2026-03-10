@@ -21,16 +21,17 @@
 
 ## About Me
 
-Java Backend Developer focused on building **secure, domain-driven REST APIs** using Spring Boot.
+Java Backend Developer specializing in building **scalable, event-driven REST APIs** using Spring Boot.
 
-I design systems with:
-- Layered architecture
-- Explicit lifecycle enforcement
-- Defense-in-depth authorization
-- Transactional consistency
-- Clean separation of concerns
+I design backend systems with:
 
-Previously spent **6+ years at Amazon** handling SLA-critical escalations and structured root cause analysis — experience that shaped my engineering mindset around reliability, clarity, and predictable system behavior.
+* Clean layered architecture and separation of concerns
+* Event-driven and asynchronous processing patterns
+* Secure API design with authentication and authorization
+* Transactional consistency and reliable data handling
+* Production-style practices including logging, error handling, and resilience patterns
+
+Previously spent **6+ years at Amazon** handling SLA-critical escalations and performing structured root cause analysis. This experience shaped a strong engineering focus on **system reliability, clear debugging workflows, and predictable backend behavior**.
 
 ## Backend Toolkit
 
@@ -58,6 +59,21 @@ Previously spent **6+ years at Amazon** handling SLA-critical escalations and st
 </p>
 
 ## Projects
+
+### 🔹 [NotifyHub](https://github.com/avinashee0012/notifyhub) – Event-Driven Notification Platform *(Active Development)*
+
+A scalable backend system that processes application events and delivers notifications asynchronously through messaging pipelines and real-time channels.
+
+**Key Highlights:**
+
+* Event-driven architecture with asynchronous processing using RabbitMQ
+* REST APIs for event ingestion, notification retrieval, unread filtering, and read status updates
+* Background worker service converting domain events into user notifications
+* Real-time notification delivery using WebSocket push messaging
+* Reliability features including retry handling, dead-letter queues, and idempotent processing
+* Containerized infrastructure with Docker and docker-compose
+
+**Tech:** Java 17 · Spring Boot · RabbitMQ · Spring Data JPA · WebSocket · MySQL · Docker · OpenAPI
 
 ### 🔹 [HireFlow](https://github.com/avinashee0012/hireflow) – Multi-Tenant Recruitment Backend *(1st stable release made | Active Development)*
 
