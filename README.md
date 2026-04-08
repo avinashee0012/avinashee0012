@@ -75,6 +75,22 @@ A scalable backend system that processes application events and delivers notific
 
 **Tech:** Java 17 · Spring Boot · RabbitMQ · Spring Data JPA · WebSocket · MySQL · Docker · OpenAPI
 
+### 🔹 [Zorvyn](https://github.com/avinashee0012/zorvyn) – Finance Management Backend System
+
+A production-style backend system for managing financial records with secure authentication, role-based access control, and analytical dashboard insights.
+
+**Key Highlights:**
+
+* Clean layered architecture (Controller–Service–Repository) ensuring maintainable and scalable design 
+* 25+ REST APIs covering authentication, user management, financial records, and dashboard analytics
+* JWT-based stateless authentication with Spring Security and method-level RBAC using `@PreAuthorize`
+* Financial records module with CRUD, pagination, sorting, keyword search, and multi-criteria filtering
+* Dashboard APIs delivering income, expense, balance, category summaries, and recent transactions via aggregation queries
+* Production-grade features including soft delete, DTO validation, and centralized exception handling
+* Unit and repository testing using JUnit, Mockito, and H2 in-memory database
+
+**Tech:** Java 17 · Spring Boot · Spring Security · JWT · Spring Data JPA · MySQL · H2 · Maven · OpenAPI
+
 ### 🔹 [HireFlow](https://github.com/avinashee0012/hireflow) – Multi-Tenant Recruitment Backend *(1st stable release made | Active Development)*
 
 A production-style recruitment platform backend supporting organisation-level governance and role-based workflows.
